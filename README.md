@@ -65,6 +65,6 @@ This project provides a comprehensive analysis and visualization of COVID-19 dat
    pip install pandas matplotlib
 3. Place the dataset covid_19_clean_complete.csv in the project folder.
 4. Run the Python script:
-  ```bash
+   ```bash
    python covid_visualizations.py
 
