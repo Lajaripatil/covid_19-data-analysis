@@ -13,7 +13,9 @@ Recovered
 Active 
 WHO Region 
 Daily New Cases 
+
 📊 Visualizations Included (8 Graphs)
+
 1️⃣ Monthly Confirmed COVID-19 Cases
 
 A line graph showing how total confirmed cases increased month-wise across the world.
@@ -53,3 +55,26 @@ Highlights peaks of pandemic severity.
 
 A bar chart showing recovery success across different countries.
 Helps understand global medical response effectiveness.
+
+🛠️ Technologies Used
+
+Python 3
+
+Pandas (Data cleaning & processing)
+
+Matplotlib (Data visualization)
+
+NumPy
+
+VS Code
+
+▶️ How to Run
+
+1. Download the dataset into the project folder.
+
+2.Install required libraries:
+ pip install pandas matplotlib numpy
+3.Run the Python script:
+ python Anu_graphs.py
+
+
